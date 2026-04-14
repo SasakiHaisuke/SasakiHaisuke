@@ -6,7 +6,7 @@
 
 ### 🛠️ Skills & Tools
 - ⌨️ Typing: [Certified 59 WPM] (https://www.typing.com/apiv1/student/tests/398293274/174628460/certificate?language=en&product_id=typing)
-- 📚 **Currently Learning:** Python / C++
+- 📚 **Currently Learning:** Python / C++ 
 
 ### 📬 Connect with Me
 - 👾 **Discord:** `nxeity_void`
