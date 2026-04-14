@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Sasaki Haisuke!
 
-<!--
-**SasakiHaisuke/SasakiHaisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **Student:** 9th Grade CS Student from Pakistan 🇵🇰
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+- ⌨️ Typing: [Certified 59 WPM] (https://www.typing.com/apiv1/student/tests/398293274/174628460/certificate?language=en&product_id=typing)
+- 📚 **Currently Learning:** Python / ![C++](https://shields.io)
+
+### 📬 Connect with Me
+- 👾 **Discord:** `nxeity_void`
+- 📸 **Instagram:** [@_h_a_i_s_u_k_e](https://instagram.com)
+- 📺 **YouTube:** [@haisukekun](https://youtube.com)
