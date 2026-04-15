@@ -12,6 +12,6 @@
 - 👾 **Discord:** `nxeity_void`
 - 📸 **Instagram:** [@h_a_i_s_u_k_e](https://www.instagram.com/h_a_i_s_u_k_e/?next=%2F)
 - 📺 **YouTube:** [Sasaki_Haisuke](https://www.youtube.com/@haisukekun)
-- 📧 **Gmail:** [haisukekun@gmail.com](mailto:haisukekun@gmail.com)
+- 📧 **Gmail:** [haisukekun](mailto:haisukekun@gmail.com)
 
 Looking forward to work with you
