@@ -12,7 +12,7 @@
 
 **Discord:** `nxeity_void`  
 **Instagram:** [@h_a_i_s_u_k_e_](https://www.instagram.com/h_a_i_s_u_k_e_/)  
-**YouTube:** [Sasaki Haisuke]([https://www.youtube.com/@haisukekun](https://www.youtube.com/channel/UCwFhYtoWraQxRcjH8lc8FCw))  
+**YouTube:** [Sasaki Haisuke](https://www.youtube.com/channel/UCwFhYtoWraQxRcjH8lc8FCw)  
 **Gmail:** [haisukekun@gmail.com](mailto:haisukekun@gmail.com)
 
 Looking forward to working with you
